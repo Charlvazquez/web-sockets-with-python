@@ -1,2 +1,2 @@
 # web-sockets-with-python
-chat with websockets created in python
+chat Gui with websockets created in python
